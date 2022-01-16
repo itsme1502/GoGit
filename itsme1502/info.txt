@@ -1,3 +1,8 @@
 I little bit didn't understand remote and The topics taught in the last workshop which may 
 be because i haven't revised due to quiz.
 Yes,But these are my doubts
+Git is very useful in many cases such as 
+1)we have done a fault by mistake in b/w a code,using git wwe can just comeback to the older one.
+2)multiple people can work upon a single project.
+3)its like a database which stores information from all people.
+4)If one recommend some changes by his side and its impressive.The repo maintainer can easily merge the changes.
